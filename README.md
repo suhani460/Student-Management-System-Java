@@ -1,4 +1,4 @@
-# Student-Management-System-Java
+
 # Student Management System
 
 A Java-based Student Management System built using Java, JDBC, and MySQL.
